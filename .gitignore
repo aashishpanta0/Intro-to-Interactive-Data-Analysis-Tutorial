@@ -3,3 +3,5 @@
 **/*.nc
 **/temp_nc/**
 **/idx_dir/** 
+**/openvisuspy/
+**/.tes**

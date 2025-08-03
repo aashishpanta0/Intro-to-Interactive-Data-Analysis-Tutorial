@@ -38,6 +38,12 @@
 
 - [3-BYOD.ipynb](3-BYOD.ipynb): Template for users to load their own dataset and convert it to IDX format. Users set their file paths, variable names, and dimensions, then follow the steps to create and verify their IDX dataset.
 
+
+### Part 4: Launch OpenVisus Dashboard
+
+- [4-Launch-Dashboard.ipynb](4-Launch-Dashboard.ipynb): Step-by-step instructions to set up and launch the OpenVisus dashboard for interactive data analysis. Covers cloning the dashboard repo, setting up the environment, installing dependencies, configuring environment variables, and launching the dashboard server.
+
+
 ## References
 
 - [OpenVisus Framework](https://github.com/sci-visus/OpenVisus)
