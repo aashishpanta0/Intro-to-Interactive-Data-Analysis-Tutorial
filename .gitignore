@@ -1,2 +1,5 @@
 .venv/
 **/visus_can_be_deleted/** 
+**/*.nc
+**/temp_nc/**
+**/idx_dir/** 

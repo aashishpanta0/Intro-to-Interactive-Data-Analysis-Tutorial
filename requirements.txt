@@ -7,3 +7,7 @@ aiohttp
 requests
 OpenVisus
 openvisuspy
+datetime
+xarray
+boto3
+netcdf4

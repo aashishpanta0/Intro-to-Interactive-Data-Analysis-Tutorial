@@ -28,21 +28,23 @@
 
 ### Part 1: Read CMIP6
 
-- [Part-1-Read-CMIP6.ipynb](Part-1-Read-CMIP6.ipynb): Instructions to read Nex GDDP CMIP6 data from a server using the OpenVisus framework.
+- [1-Read-CMIP6.ipynb](1-Read-CMIP6.ipynb): Instructions to read Nex GDDP CMIP6 data from a server using the OpenVisus framework. Includes steps for selecting variables, reading metadata, loading data, and visualizing results.
 
-### Part 2: Bring Your Own Data (BYOD)
+### Part 2: Working with Netcdfs
 
-- [Part-2-BYOD.ipynb](Part-2-BYOD.ipynb): *(To be added)*
+- [2-Working-with-Netcdfs.ipynb](2-Working-with-Netcdfs.ipynb): Shows how to download NetCDF files, extract relevant data, and convert them to OpenVisus IDX format. Includes code for downloading from S3, reading with xarray, writing IDX, compressing, and verifying.
 
-### Part 3: [Notebook Title]
+### Part 3: Bring Your Own Data (BYOD)
 
-- *(To be added)*
+- [3-BYOD.ipynb](3-BYOD.ipynb): Template for users to load their own dataset and convert it to IDX format. Users set their file paths, variable names, and dimensions, then follow the steps to create and verify their IDX dataset.
 
 ## References
 
 - [OpenVisus Framework](https://github.com/sci-visus/OpenVisus)
+- [Quarto Documentation for NEX-GDDP-CMIP6](https://aashishp.quarto.pub/nex-gddp-cmip6/)
 
 ## Acknowledgements
 
 - Aashish Panta (aashishpanta0@gmail.com)
-- Valerio Pascucci
+- Giorgio Scorzelli (scrgiorgio@gmail.com)
+- Valerio Pascucci (pascucci.valerio@gmail.com)
