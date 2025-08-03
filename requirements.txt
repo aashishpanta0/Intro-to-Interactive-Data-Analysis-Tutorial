@@ -1,0 +1,9 @@
+numpy
+matplotlib
+pandas
+bokeh
+panel
+aiohttp
+requests
+OpenVisus
+openvisuspy
