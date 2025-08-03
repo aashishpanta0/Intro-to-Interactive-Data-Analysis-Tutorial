@@ -43,6 +43,10 @@
 
 - [4-Launch-Dashboard.ipynb](4-Launch-Dashboard.ipynb): Step-by-step instructions to set up and launch the OpenVisus dashboard for interactive data analysis. Covers cloning the dashboard repo, setting up the environment, installing dependencies, configuring environment variables, and launching the dashboard server.
 
+### Part 5: Using Intake with OpenVisus
+
+- [5-Using-Intake.ipynb](5-Using-Intake.ipynb): Demonstrates how to explore NASA NEX-GDDP-CMIP6 data using Intake and OpenVisus. Shows how to subset by time, region, and resolution, and visualize results with xarray and matplotlib.
+
 
 ## References
 
