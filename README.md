@@ -1,4 +1,4 @@
-# Intro to Interactive Data Analysis Tutorial
+# Introduction to Interactive Data Analysis Tutorial
 <p align="center">
   <img src="images/nsdf.png" height="60" alt="NSDF Logo"/>
   <img src="images/nasajpl.png" height="60" alt="NASA JPL Logo"/>
